@@ -7,7 +7,7 @@ int main()
   e= a%b;
   f =a/b;
   j = a*b;
-
+  /// added in the left 
   return 0;
 
 }
