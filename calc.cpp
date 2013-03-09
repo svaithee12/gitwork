@@ -1,11 +1,12 @@
 #include<iostream>
 int main()
 {
-  int a, b, c, d, e, f ;
+  int a, b, c, d, e, f, j ;
   c= a+b;
   d= a-b;
   e= a%b;
   f =a/b;
+  j = a*b;
 
   return 0;
 
