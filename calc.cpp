@@ -6,7 +6,7 @@ int main()
   d= a-b;
   e= a%b;
   f =a/b;
-
+  /// added in the left 
   return 0;
 
 }
